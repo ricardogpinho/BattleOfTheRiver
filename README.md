@@ -17,4 +17,4 @@ Battle of the River is a game created as a result of a week's project with one m
 This game is about two characters (one controlled by a player and the other controlled by the computer), who try to hit each other while trying to dodge arrows from the other.
 
 Main technologies used: <br />
-Java, SimpleGFX, Photoshop
+Java, SimpleGFX, Photoshop, Ant
