@@ -5,11 +5,11 @@ This is the repository of Battle of the River, from Academia de Codigo, bootcamp
 
 ## Team
 
-Adriana Alves <br />
-João Pinheiro <br />
-Neide Margarido <br />
+[Adriana Alves](https://github.com/AdrianaAC) <br />
+[João Pinheiro](https://github.com/joaopinheiro10) <br />
+[Neide Margarido](https://github.com/ruipatricio72) <br />
 [Ricardo Pinho](https://github.com/ricardogpinho) <br />
-Rui Lopes <br />
+[Rui Lopes](https://github.com/ruipatricio72) <br />
 
 ## Project
 
