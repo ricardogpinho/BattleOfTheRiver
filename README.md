@@ -20,4 +20,4 @@ Main technologies used: <br />
 Java, SimpleGFX, Photoshop, Ant
 
 ![Image of home screen]
-https://github.com/ricardogpinho/BattleOfTheRiver/blob/master/botr-homescreen.png
+https://raw.githubusercontent.com/ricardogpinho/BattleOfTheRiver/master/botr-homescreen.png
