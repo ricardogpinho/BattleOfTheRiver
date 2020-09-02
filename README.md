@@ -18,3 +18,6 @@ This game is about two characters (one controlled by a player and the other cont
 
 Main technologies used: <br />
 Java, SimpleGFX, Photoshop, Ant
+
+![Image of home screen]
+https://github.com/ricardogpinho/BattleOfTheRiver/blob/master/botr-homescreen.png
